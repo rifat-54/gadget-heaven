@@ -1,0 +1,230 @@
+[
+    {
+      "id": 1,
+      "product_title": "Samsung Galaxy S22",
+      "product_image": "https://i.ibb.co.com/9pV0Z5t/Samsung-Galaxy-S22-5-G-Phantom-White-1.jpg",
+      "category": "Mobile",
+      "price": 799.99,
+      "description": "Samsung Galaxy S22 with Exynos processor and AMOLED display.",
+      "Specification": [
+        "6.1-inch FHD+ AMOLED display",
+        "Exynos 2200",
+        "8GB RAM",
+        "128GB storage",
+        "50MP triple camera setup",
+        "3700mAh battery"
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "Otherfield": "Color: Phantom White"
+    },
+    {
+      "id": 2,
+      "product_title": "Apple iPhone 14",
+      "product_image": "https://i.ibb.co.com/Fq1rT0T/Restored-Apple-i-Phone-14-Pro-Max-Carrier-Unlocked-1-TB-Deep-Purple-MQ953-LL-A-Refurbished-cb8f75e5.webp",
+      "category": "iPhone",
+      "price": 999.99,
+      "description": "Apple iPhone 14 with A15 Bionic chip and advanced dual-camera system.",
+      "Specification": [
+        "6.1-inch Super Retina XDR display",
+        "A15 Bionic chip",
+        "6GB RAM",
+        "128GB storage",
+        "12MP dual camera",
+        "3240mAh battery"
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "Otherfield": "Color: Midnight Black"
+    },
+    {
+      "id": 3,
+      "product_title": "OnePlus 10 Pro",
+      "product_image": "https://i.ibb.co.com/5smx5NC/4920-50083.jpg",
+      "category": "Mobile",
+      "price": 699.99,
+      "description": "OnePlus 10 Pro with Snapdragon 8 Gen 1 and 120Hz Fluid AMOLED display.",
+      "Specification": [
+        "6.7-inch QHD+ AMOLED display",
+        "Snapdragon 8 Gen 1",
+        "12GB RAM",
+        "256GB storage",
+        "48MP triple camera setup",
+        "5000mAh battery"
+      ],
+      "availability": false,
+      "rating": 4.6,
+      "Otherfield": "Color: Volcanic Black"
+    },
+    {
+      "id": 4,
+      "product_title": "Google Pixel 7",
+      "product_image": "https://i.ibb.co.com/R7J1mWX/61wq-AYVLYHL-AC-UF1000-1000-QL80.jpg",
+      "category": "Mobile",
+      "price": 599.99,
+      "description": "Google Pixel 7 with Google Tensor chip and clean Android experience.",
+      "Specification": [
+        "6.3-inch OLED display",
+        "Google Tensor G2",
+        "8GB RAM",
+        "128GB storage",
+        "50MP dual camera",
+        "4355mAh battery"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "Otherfield": "Color: Lemongrass"
+    },
+    {
+      "id": 5,
+      "product_title": "Xiaomi Mi Pad 5",
+      "product_image": "https://i.ibb.co.com/8XbbHnT/081a16d6aa3c75e826b22431afa2e09c.jpg",
+      "category": "Tablet",
+      "price": 399.99,
+      "description": "Xiaomi Mi Pad 5 with Snapdragon processor and large display.",
+      "Specification": [
+        "11-inch 2.5K display",
+        "Snapdragon 860",
+        "6GB RAM",
+        "128GB storage",
+        "13MP rear camera",
+        "8720mAh battery"
+      ],
+      "availability": false,
+      "rating": 4.5,
+      "Otherfield": "Color: Cosmic Gray"
+    },
+    {
+      "id": 6,
+      "product_title": "Apple iPad Pro",
+      "product_image": "https://i.ibb.co.com/VTnRdch/129inchipadpro5thgeneration1-color-silver-capacity-all-connectivity-all-700x-a3410ec5-310a-4ff1-961e.webp",
+      "category": "Tablet",
+      "price": 1099.99,
+      "description": "Apple iPad Pro with M1 chip and Liquid Retina display.",
+      "Specification": [
+        "12.9-inch Liquid Retina display",
+        "Apple M1 chip",
+        "8GB RAM",
+        "128GB storage",
+        "12MP rear camera",
+        "9720mAh battery"
+      ],
+      "availability": true,
+      "rating": 4.9,
+      "Otherfield": "Color: Space Gray"
+    },
+    {
+      "id": 7,
+      "product_title": "Dell XPS 13",
+      "product_image": "https://i.ibb.co.com/YXmfgYB/Dell-XPS-13-Plus-BD-Price-1.webp",
+      "category": "Laptop",
+      "price": 1199.99,
+      "description": "Dell XPS 13 with Intel i7 processor and FHD+ display.",
+      "Specification": [
+        "13.4-inch FHD+ display",
+        "Intel Core i7-1185G7",
+        "16GB RAM",
+        "512GB SSD",
+        "Intel Iris Xe graphics",
+        "52Wh battery"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "Otherfield": "Weight: 1.2 kg"
+    },
+    {
+      "id": 8,
+      "product_title": "Apple MacBook Air M2",
+      "product_image": "https://i.ibb.co.com/LRm5856/apple-macbook-air-2023-apple-m2-153-inch-11688552667.webp",
+      "category": "MacBook",
+      "price": 1299.99,
+      "description": "Apple MacBook Air with M2 chip and Retina display.",
+      "Specification": [
+        "13.6-inch Retina display",
+        "Apple M2 chip",
+        "8GB RAM",
+        "256GB SSD",
+        "Integrated 8-core GPU",
+        "18-hour battery life"
+      ],
+      "availability": true,
+      "rating": 4.9,
+      "Otherfield": "Color: Space Gray"
+    },
+    {
+      "id": 9,
+      "product_title": "HP Spectre x360",
+      "product_image": "https://i.ibb.co.com/ftcxTwg/Hp-Spectre-X360-i7-Custom-Mac-BD.webp",
+      "category": "Laptop",
+      "price": 1099.99,
+      "description": "HP Spectre x360 with Intel i5 processor and 360-degree hinge.",
+      "Specification": [
+        "13.5-inch OLED display",
+        "Intel Core i5-1135G7",
+        "8GB RAM",
+        "256GB SSD",
+        "Intel Iris Xe graphics",
+        "16-hour battery life"
+      ],
+      "availability": false,
+      "rating": 4.6,
+      "Otherfield": "Color: Nightfall Black"
+    },
+    {
+      "id": 10,
+      "product_title": "Apple iPhone 13 Pro",
+      "product_image": "https://i.ibb.co.com/KVLxQBv/Apple-i-Phone-13-Pro-Max-Graphite-500x500-1.webp",
+      "category": "iPhone",
+      "price": 1099.99,
+      "description": "Apple iPhone 13 Pro with A15 Bionic chip and Super Retina XDR display.",
+      "Specification": [
+        "6.1-inch Super Retina XDR display",
+        "A15 Bionic chip",
+        "6GB RAM",
+        "128GB storage",
+        "12MP triple camera setup",
+        "3095mAh battery"
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "Otherfield": "Color: Sierra Blue"
+    },
+    {
+      "id": 11,
+      "product_title": "Asus ZenBook Duo",
+      "product_image": "https://i.ibb.co.com/fGgrGND/ASUS-5-11.webp",
+      "category": "Laptop",
+      "price": 1499.99,
+      "description": "Asus ZenBook Duo with dual-screen and Intel i7 processor.",
+      "Specification": [
+        "14-inch FHD display + secondary display",
+        "Intel Core i7-10510U",
+        "16GB RAM",
+        "1TB SSD",
+        "NVIDIA GeForce MX250",
+        "67Wh battery"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "Otherfield": "Weight: 1.5 kg"
+    },
+    {
+      "id": 12,
+      "product_title": "Microsoft Surface Laptop 4",
+      "product_image": "https://i.ibb.co.com/GPc63Z0/microsoft-surface-laptop-4-intel-core-i5-1135g7-41632738225.webp",
+      "category": "Laptop",
+      "price": 1299.99,
+      "description": "Microsoft Surface Laptop 4 with AMD Ryzen processor and sleek design.",
+      "Specification": [
+        "14-inch FHD display + secondary display",
+        "Intel Core i7-10510U",
+        "16GB RAM",
+        "1TB SSD",
+        "NVIDIA GeForce MX250",
+        "67Wh battery"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "Otherfield": "Weight: 1.5 kg"
+    }
+]  
